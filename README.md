@@ -1,3 +1,4 @@
+![logo](https://github.com/aastha612-yadav/aastha612-yadav/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Aastha Yadav</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
