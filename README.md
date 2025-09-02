@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aastha Yadav</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif"
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aastha612-yadav&label=Profile%20views&color=0e75b6&style=flat" alt="aastha612-yadav" /> </p>
 
