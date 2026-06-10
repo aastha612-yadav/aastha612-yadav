@@ -12,9 +12,8 @@
 
 - 📫 How to reach me **aasthayadav815@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y-4ctjfXtou_1QcB0S0CiCAbSX876V0A/view?usp=drive_link](https://drive.google.com/file/d/1Y-4ctjfXtou_1QcB0S0CiCAbSX876V0A/view?usp=drive_link)
-
-- ⚡ Fun fact **I’m a big fan of Music.**
+- 📄 Know about my experiences https://ap.wps.com/cms/docs/d/cbCaeuzC31G8cflO
+- ⚡ Fun fact **I can play Guitar.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
